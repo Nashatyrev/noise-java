@@ -1,6 +1,6 @@
 # Fork 
 
-This fork has been done to make the Noise-java library available for adding 
+This fork has been created to make the Noise-java library available 
 as a [Gradle source dependency](https://blog.gradle.org/introducing-source-dependencies)
 
 To add the library to your Gradle project:   
